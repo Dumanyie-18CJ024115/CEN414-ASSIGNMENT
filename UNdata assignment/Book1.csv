@@ -1,0 +1,511 @@
+Entity,Code,Year,Value
+Algeria,DZA,2010,105
+Angola,AGO,2010,102.6
+Benin,BEN,2010,104.1
+Botswana,BWA,2010,103.1
+Burkina Faso,BFA,2010,104.6
+Burundi,BDI,2010,103
+Cameroon,CMR,2010,103
+Cape Verde,CPV,2010,103
+Central African Republic,CAF,2010,103
+Chad,TCD,2010,103
+Comoros,COM,2010,105
+Congo,COG,2010,103
+Cote d'Ivoire,CIV,2010,103
+Democratic Republic of Congo,COD,2010,103
+Djibouti,DJI,2010,103.9
+Egypt,EGY,2010,106.6
+Equatorial Guinea,GNQ,2010,103
+Eritrea,ERI,2010,105.2
+Ethiopia,ETH,2010,104
+Gabon,GAB,2010,103
+Gambia,GMB,2010,103
+Guinea,GIN,2010,102.4
+Guinea-Bissau,GNB,2010,103
+Kenya,KEN,2010,103
+Lesotho,LSO,2010,102.8
+Liberia,LBR,2010,105.4
+Libya,LBY,2010,106
+Madagascar,MDG,2010,102.8
+Malawi,MWI,2010,102.8
+Mali,MLI,2010,105
+Mauritania,MRT,2010,105
+Mauritius,MUS,2010,104.2
+Morocco,MAR,2010,106
+Mozambique,MOZ,2010,101.6
+Namibia,NAM,2010,100.9
+Niger,NER,2010,105
+Nigeria,NGA,2010,105.9
+Rwanda,RWA,2010,101.4
+Sao Tome and Principe,STP,2010,103
+Senegal,SEN,2010,103.6
+Seychelles,SYC,2010,106
+Sierra Leone,SLE,2010,101.8
+Somalia,SOM,2010,103
+South Africa,ZAF,2010,103.1
+Sudan,SDN,2010,104
+Tanzania,TZA,2010,103
+Togo,TGO,2010,101.8
+Tunisia,TUN,2010,107.2
+Uganda,UGA,2010,103
+Zambia,ZMB,2010,103.1
+Zimbabwe,ZWE,2010,102
+Algeria,DZA,2011,105
+Angola,AGO,2011,102.8
+Benin,BEN,2011,104.1
+Botswana,BWA,2011,103.1
+Burkina Faso,BFA,2011,104.6
+Burundi,BDI,2011,103
+Cameroon,CMR,2011,103
+Cape Verde,CPV,2011,103
+Central African Republic,CAF,2011,103
+Chad,TCD,2011,103
+Comoros,COM,2011,105
+Congo,COG,2011,103
+Cote d'Ivoire,CIV,2011,103
+Democratic Republic of Congo,COD,2011,103
+Djibouti,DJI,2011,103.9
+Egypt,EGY,2011,106.6
+Equatorial Guinea,GNQ,2011,103
+Eritrea,ERI,2011,105.2
+Ethiopia,ETH,2011,104
+Gabon,GAB,2011,103
+Gambia,GMB,2011,103
+Guinea,GIN,2011,102.4
+Guinea-Bissau,GNB,2011,103
+Kenya,KEN,2011,103
+Lesotho,LSO,2011,102.7
+Liberia,LBR,2011,105.4
+Libya,LBY,2011,106
+Madagascar,MDG,2011,102.9
+Malawi,MWI,2011,102.9
+Mali,MLI,2011,105
+Mauritania,MRT,2011,105
+Mauritius,MUS,2011,104.2
+Morocco,MAR,2011,106
+Mozambique,MOZ,2011,101.7
+Namibia,NAM,2011,100.9
+Niger,NER,2011,105
+Nigeria,NGA,2011,105.9
+Rwanda,RWA,2011,101.6
+Sao Tome and Principe,STP,2011,103
+Senegal,SEN,2011,103.6
+Seychelles,SYC,2011,106
+Sierra Leone,SLE,2011,101.8
+Somalia,SOM,2011,103
+South Africa,ZAF,2011,103.1
+Sudan,SDN,2011,104
+Tanzania,TZA,2011,103
+Togo,TGO,2011,101.8
+Tunisia,TUN,2011,106.9
+Uganda,UGA,2011,103
+Zambia,ZMB,2011,103.1
+Zimbabwe,ZWE,2011,102
+Algeria,DZA,2012,105
+Angola,AGO,2012,103
+Benin,BEN,2012,104.1
+Botswana,BWA,2012,103.1
+Burkina Faso,BFA,2012,104.6
+Burundi,BDI,2012,103
+Cameroon,CMR,2012,103
+Cape Verde,CPV,2012,103
+Central African Republic,CAF,2012,103
+Chad,TCD,2012,103
+Comoros,COM,2012,105
+Congo,COG,2012,103
+Cote d'Ivoire,CIV,2012,103
+Democratic Republic of Congo,COD,2012,103
+Djibouti,DJI,2012,103.9
+Egypt,EGY,2012,106.6
+Equatorial Guinea,GNQ,2012,103
+Eritrea,ERI,2012,105.2
+Ethiopia,ETH,2012,104
+Gabon,GAB,2012,103
+Gambia,GMB,2012,103
+Guinea,GIN,2012,102.4
+Guinea-Bissau,GNB,2012,103
+Kenya,KEN,2012,103
+Lesotho,LSO,2012,102.7
+Liberia,LBR,2012,105.4
+Libya,LBY,2012,106
+Madagascar,MDG,2012,103
+Malawi,MWI,2012,103
+Mali,MLI,2012,105
+Mauritania,MRT,2012,105
+Mauritius,MUS,2012,104.2
+Morocco,MAR,2012,106
+Mozambique,MOZ,2012,101.7
+Namibia,NAM,2012,100.9
+Niger,NER,2012,105
+Nigeria,NGA,2012,105.9
+Rwanda,RWA,2012,101.7
+Sao Tome and Principe,STP,2012,103
+Senegal,SEN,2012,103.6
+Seychelles,SYC,2012,106
+Sierra Leone,SLE,2012,101.8
+Somalia,SOM,2012,103
+South Africa,ZAF,2012,103.1
+Sudan,SDN,2012,104
+Tanzania,TZA,2012,103
+Togo,TGO,2012,101.8
+Tunisia,TUN,2012,106.6
+Uganda,UGA,2012,103
+Zambia,ZMB,2012,103.1
+Zimbabwe,ZWE,2012,102
+Algeria,DZA,2013,105
+Angola,AGO,2013,103
+Benin,BEN,2013,104.1
+Botswana,BWA,2013,103.1
+Burkina Faso,BFA,2013,104.6
+Burundi,BDI,2013,103
+Cameroon,CMR,2013,103
+Cape Verde,CPV,2013,103
+Central African Republic,CAF,2013,103
+Chad,TCD,2013,103
+Comoros,COM,2013,105
+Congo,COG,2013,103
+Cote d'Ivoire,CIV,2013,103
+Democratic Republic of Congo,COD,2013,103
+Djibouti,DJI,2013,103.9
+Egypt,EGY,2013,106.5
+Equatorial Guinea,GNQ,2013,103
+Eritrea,ERI,2013,105.2
+Ethiopia,ETH,2013,104
+Gabon,GAB,2013,103
+Gambia,GMB,2013,103
+Guinea,GIN,2013,102.4
+Guinea-Bissau,GNB,2013,103
+Kenya,KEN,2013,103
+Lesotho,LSO,2013,102.7
+Liberia,LBR,2013,105.4
+Libya,LBY,2013,106
+Madagascar,MDG,2013,103
+Malawi,MWI,2013,103
+Mali,MLI,2013,105
+Mauritania,MRT,2013,105
+Mauritius,MUS,2013,104.2
+Morocco,MAR,2013,106
+Mozambique,MOZ,2013,101.7
+Namibia,NAM,2013,100.9
+Niger,NER,2013,105
+Nigeria,NGA,2013,105.9
+Rwanda,RWA,2013,101.8
+Sao Tome and Principe,STP,2013,103
+Senegal,SEN,2013,103.6
+Seychelles,SYC,2013,106
+Sierra Leone,SLE,2013,101.8
+Somalia,SOM,2013,103
+South Africa,ZAF,2013,103.1
+Sudan,SDN,2013,104
+Tanzania,TZA,2013,103
+Togo,TGO,2013,101.8
+Tunisia,TUN,2013,106.4
+Uganda,UGA,2013,103
+Zambia,ZMB,2013,103.1
+Zimbabwe,ZWE,2013,102
+Algeria,DZA,2014,105
+Angola,AGO,2014,103
+Benin,BEN,2014,104.1
+Botswana,BWA,2014,103.1
+Burkina Faso,BFA,2014,104.6
+Burundi,BDI,2014,103
+Cameroon,CMR,2014,103
+Cape Verde,CPV,2014,103
+Central African Republic,CAF,2014,103
+Chad,TCD,2014,103
+Comoros,COM,2014,105
+Congo,COG,2014,103
+Cote d'Ivoire,CIV,2014,103
+Democratic Republic of Congo,COD,2014,103
+Djibouti,DJI,2014,103.9
+Egypt,EGY,2014,106.4
+Equatorial Guinea,GNQ,2014,103
+Eritrea,ERI,2014,105.2
+Ethiopia,ETH,2014,104
+Gabon,GAB,2014,103
+Gambia,GMB,2014,103
+Guinea,GIN,2014,102.4
+Guinea-Bissau,GNB,2014,103
+Kenya,KEN,2014,103
+Lesotho,LSO,2014,102.7
+Liberia,LBR,2014,105.4
+Libya,LBY,2014,106
+Madagascar,MDG,2014,103
+Malawi,MWI,2014,103
+Mali,MLI,2014,105
+Mauritania,MRT,2014,105
+Mauritius,MUS,2014,104.2
+Morocco,MAR,2014,106
+Mozambique,MOZ,2014,101.8
+Namibia,NAM,2014,101
+Niger,NER,2014,105
+Nigeria,NGA,2014,105.9
+Rwanda,RWA,2014,101.9
+Sao Tome and Principe,STP,2014,103
+Senegal,SEN,2014,103.6
+Seychelles,SYC,2014,106
+Sierra Leone,SLE,2014,101.8
+Somalia,SOM,2014,103
+South Africa,ZAF,2014,103.1
+Sudan,SDN,2014,104
+Tanzania,TZA,2014,103
+Togo,TGO,2014,101.8
+Tunisia,TUN,2014,106.2
+Uganda,UGA,2014,103
+Zambia,ZMB,2014,103.1
+Zimbabwe,ZWE,2014,102
+Algeria,DZA,2015,105
+Angola,AGO,2015,103
+Benin,BEN,2015,104.1
+Botswana,BWA,2015,103.1
+Burkina Faso,BFA,2015,104.6
+Burundi,BDI,2015,103
+Cameroon,CMR,2015,103
+Cape Verde,CPV,2015,103
+Central African Republic,CAF,2015,103
+Chad,TCD,2015,103
+Comoros,COM,2015,105
+Congo,COG,2015,103
+Cote d'Ivoire,CIV,2015,103
+Democratic Republic of Congo,COD,2015,103
+Djibouti,DJI,2015,103.9
+Egypt,EGY,2015,106.2
+Equatorial Guinea,GNQ,2015,103
+Eritrea,ERI,2015,105.2
+Ethiopia,ETH,2015,104
+Gabon,GAB,2015,103
+Gambia,GMB,2015,103
+Guinea,GIN,2015,102.4
+Guinea-Bissau,GNB,2015,103
+Kenya,KEN,2015,103
+Lesotho,LSO,2015,102.7
+Liberia,LBR,2015,105.4
+Libya,LBY,2015,106
+Madagascar,MDG,2015,103
+Malawi,MWI,2015,103
+Mali,MLI,2015,105
+Mauritania,MRT,2015,105
+Mauritius,MUS,2015,104.2
+Morocco,MAR,2015,106
+Mozambique,MOZ,2015,101.8
+Namibia,NAM,2015,101
+Niger,NER,2015,105
+Nigeria,NGA,2015,105.9
+Rwanda,RWA,2015,102.1
+Sao Tome and Principe,STP,2015,103
+Senegal,SEN,2015,103.6
+Seychelles,SYC,2015,106
+Sierra Leone,SLE,2015,101.8
+Somalia,SOM,2015,103
+South Africa,ZAF,2015,103.1
+Sudan,SDN,2015,104
+Tanzania,TZA,2015,103
+Togo,TGO,2015,101.8
+Tunisia,TUN,2015,105.9
+Uganda,UGA,2015,103
+Zambia,ZMB,2015,103.1
+Zimbabwe,ZWE,2015,102
+Algeria,DZA,2016,105
+Angola,AGO,2016,103
+Benin,BEN,2016,104.1
+Botswana,BWA,2016,103.1
+Burkina Faso,BFA,2016,104.6
+Burundi,BDI,2016,103
+Cameroon,CMR,2016,103
+Cape Verde,CPV,2016,103
+Central African Republic,CAF,2016,103
+Chad,TCD,2016,103
+Comoros,COM,2016,105
+Congo,COG,2016,103
+Cote d'Ivoire,CIV,2016,103
+Democratic Republic of Congo,COD,2016,103
+Djibouti,DJI,2016,103.9
+Egypt,EGY,2016,106.1
+Equatorial Guinea,GNQ,2016,103
+Eritrea,ERI,2016,105.2
+Ethiopia,ETH,2016,104
+Gabon,GAB,2016,103
+Gambia,GMB,2016,103
+Guinea,GIN,2016,102.4
+Guinea-Bissau,GNB,2016,103
+Kenya,KEN,2016,103
+Lesotho,LSO,2016,102.7
+Liberia,LBR,2016,105.4
+Libya,LBY,2016,106
+Madagascar,MDG,2016,103
+Malawi,MWI,2016,103
+Mali,MLI,2016,105
+Mauritania,MRT,2016,105
+Mauritius,MUS,2016,104.2
+Morocco,MAR,2016,106
+Mozambique,MOZ,2016,101.9
+Namibia,NAM,2016,101.1
+Niger,NER,2016,105
+Nigeria,NGA,2016,105.9
+Rwanda,RWA,2016,102.2
+Sao Tome and Principe,STP,2016,103
+Senegal,SEN,2016,103.6
+Seychelles,SYC,2016,106
+Sierra Leone,SLE,2016,101.8
+Somalia,SOM,2016,103
+South Africa,ZAF,2016,103.1
+Sudan,SDN,2016,104
+Tanzania,TZA,2016,103
+Togo,TGO,2016,101.8
+Tunisia,TUN,2016,105.7
+Uganda,UGA,2016,103
+Zambia,ZMB,2016,103.1
+Zimbabwe,ZWE,2016,102
+Algeria,DZA,2017,105
+Angola,AGO,2017,103
+Benin,BEN,2017,104.1
+Botswana,BWA,2017,103.1
+Burkina Faso,BFA,2017,104.6
+Burundi,BDI,2017,103
+Cameroon,CMR,2017,103
+Cape Verde,CPV,2017,103
+Central African Republic,CAF,2017,103
+Chad,TCD,2017,103
+Comoros,COM,2017,105
+Congo,COG,2017,103
+Cote d'Ivoire,CIV,2017,103
+Democratic Republic of Congo,COD,2017,103
+Djibouti,DJI,2017,103.9
+Egypt,EGY,2017,106
+Equatorial Guinea,GNQ,2017,103
+Eritrea,ERI,2017,105.2
+Ethiopia,ETH,2017,104
+Gabon,GAB,2017,103
+Gambia,GMB,2017,103
+Guinea,GIN,2017,102.4
+Guinea-Bissau,GNB,2017,103
+Kenya,KEN,2017,103
+Lesotho,LSO,2017,102.7
+Liberia,LBR,2017,105.4
+Libya,LBY,2017,106
+Madagascar,MDG,2017,103
+Malawi,MWI,2017,103
+Mali,MLI,2017,105
+Mauritania,MRT,2017,105
+Mauritius,MUS,2017,104.2
+Morocco,MAR,2017,106
+Mozambique,MOZ,2017,101.9
+Namibia,NAM,2017,101.1
+Niger,NER,2017,105
+Nigeria,NGA,2017,105.9
+Rwanda,RWA,2017,102.3
+Sao Tome and Principe,STP,2017,103
+Senegal,SEN,2017,103.6
+Seychelles,SYC,2017,106
+Sierra Leone,SLE,2017,101.8
+Somalia,SOM,2017,103
+South Africa,ZAF,2017,103.1
+Sudan,SDN,2017,104
+Tanzania,TZA,2017,103
+Togo,TGO,2017,101.8
+Tunisia,TUN,2017,105.5
+Uganda,UGA,2017,103
+Zambia,ZMB,2017,103.1
+Zimbabwe,ZWE,2017,102
+Algeria,DZA,2018,105
+Angola,AGO,2018,103
+Benin,BEN,2018,104.1
+Botswana,BWA,2018,103.1
+Burkina Faso,BFA,2018,104.6
+Burundi,BDI,2018,103
+Cameroon,CMR,2018,103
+Cape Verde,CPV,2018,103
+Central African Republic,CAF,2018,103
+Chad,TCD,2018,103
+Comoros,COM,2018,105
+Congo,COG,2018,103
+Cote d'Ivoire,CIV,2018,103
+Democratic Republic of Congo,COD,2018,103
+Djibouti,DJI,2018,103.9
+Egypt,EGY,2018,106
+Equatorial Guinea,GNQ,2018,103
+Eritrea,ERI,2018,105.2
+Ethiopia,ETH,2018,104
+Gabon,GAB,2018,103
+Gambia,GMB,2018,103
+Guinea,GIN,2018,102.4
+Guinea-Bissau,GNB,2018,103
+Kenya,KEN,2018,103
+Lesotho,LSO,2018,102.7
+Liberia,LBR,2018,105.4
+Libya,LBY,2018,106
+Madagascar,MDG,2018,103
+Malawi,MWI,2018,103
+Mali,MLI,2018,105
+Mauritania,MRT,2018,105
+Mauritius,MUS,2018,104.2
+Morocco,MAR,2018,106
+Mozambique,MOZ,2018,101.8
+Namibia,NAM,2018,101.1
+Niger,NER,2018,105
+Nigeria,NGA,2018,105.9
+Rwanda,RWA,2018,102.4
+Sao Tome and Principe,STP,2018,103
+Senegal,SEN,2018,103.6
+Seychelles,SYC,2018,106
+Sierra Leone,SLE,2018,101.8
+Somalia,SOM,2018,103
+South Africa,ZAF,2018,103.1
+Sudan,SDN,2018,104
+Tanzania,TZA,2018,103
+Togo,TGO,2018,101.8
+Tunisia,TUN,2018,105.4
+Uganda,UGA,2018,103
+Zambia,ZMB,2018,103.1
+Zimbabwe,ZWE,2018,102
+Algeria,DZA,2019,105
+Angola,AGO,2019,103
+Benin,BEN,2019,104.1
+Botswana,BWA,2019,103.1
+Burkina Faso,BFA,2019,104.6
+Burundi,BDI,2019,103
+Cameroon,CMR,2019,103
+Cape Verde,CPV,2019,103
+Central African Republic,CAF,2019,103
+Chad,TCD,2019,103
+Comoros,COM,2019,105
+Congo,COG,2019,103
+Cote d'Ivoire,CIV,2019,103
+Democratic Republic of Congo,COD,2019,103
+Djibouti,DJI,2019,103.9
+Egypt,EGY,2019,106
+Equatorial Guinea,GNQ,2019,103
+Eritrea,ERI,2019,105.2
+Ethiopia,ETH,2019,104
+Gabon,GAB,2019,103
+Gambia,GMB,2019,103
+Guinea,GIN,2019,102.4
+Guinea-Bissau,GNB,2019,103
+Kenya,KEN,2019,103
+Lesotho,LSO,2019,102.7
+Liberia,LBR,2019,105.4
+Libya,LBY,2019,106
+Madagascar,MDG,2019,103
+Malawi,MWI,2019,103
+Mali,MLI,2019,105
+Mauritania,MRT,2019,105
+Mauritius,MUS,2019,104.2
+Morocco,MAR,2019,106
+Mozambique,MOZ,2019,101.7
+Namibia,NAM,2019,101
+Niger,NER,2019,105
+Nigeria,NGA,2019,105.9
+Rwanda,RWA,2019,102.6
+Sao Tome and Principe,STP,2019,103
+Senegal,SEN,2019,103.6
+Seychelles,SYC,2019,106
+Sierra Leone,SLE,2019,101.8
+Somalia,SOM,2019,103
+South Africa,ZAF,2019,103.1
+Sudan,SDN,2019,104
+Tanzania,TZA,2019,103
+Togo,TGO,2019,101.8
+Tunisia,TUN,2019,105.3
+Uganda,UGA,2019,103
+Zambia,ZMB,2019,103.1
+Zimbabwe,ZWE,2019,102.1
